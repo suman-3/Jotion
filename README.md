@@ -2,7 +2,7 @@
 
 ##  Visit my [Jotion App](https://jotion-woad.vercel.app/)
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+This is a repository for Fullstack Jotion App: Next.js 13, React, Convex, Tailwind 
 
 <img width="960" alt="Screenshot 2023-11-01 143453" src="https://github.com/suman-3/Jotion/assets/136931230/d4b631a2-b574-47da-b858-97326e6fbadb">
 
