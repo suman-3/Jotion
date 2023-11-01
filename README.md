@@ -1,6 +1,6 @@
 # Fullstack Notion Clone using  Next.js 13, React, Convex, Tailwind 
 
-##  Visit my [Jotion App](https://jotion-woad.vercel.app/)
+##  Visit my [Jotion App](https://jotion-note.vercel.app/)
 
 This is a repository for Fullstack Jotion App: Next.js 13, React, Convex, Tailwind 
 
