@@ -1,11 +1,11 @@
-# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+# Fullstack Notion Clone using  Next.js 13, React, Convex, Tailwind 
 
-![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
+##  Visit my [Jotion App](https://jotion-note.vercel.app/)
 
+This is a repository for Fullstack Jotion App: Next.js 13, React, Convex, Tailwind 
 
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+<img width="960" alt="Screenshot 2023-11-01 143453" src="https://github.com/suman-3/Jotion/assets/136931230/d4b631a2-b574-47da-b858-97326e6fbadb">
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
 
 Key Features:
 
